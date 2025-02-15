@@ -8,6 +8,14 @@ This repository contains several Computer Vision projects developed by the team.
 
 ## Projects
 
+### Proj1 — Basic Image & Video Processing
+This project introduces core operations such as displaying images, capturing real-time video, and applying filters (e.g., grayscale, blur, edge detection). Key aspects include:
+
+- **Reading and writing images**
+- **Real-time video manipulation** with keyboard-triggered filters
+- **Applying common transformations** (grayscale, sepia, Sobel filters)
+- **Basic face detection** leveraging OpenCV
+- 
 ### Proj2 - Content-Based Image Retrieval (CBIR)
 Content-Based Image Retrieval (CBIR) focuses on methods for extracting features from images and finding matches within a dataset. The project involves several key steps:
 
