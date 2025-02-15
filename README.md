@@ -3,7 +3,7 @@
 This repository contains several Computer Vision projects developed by the team. The primary focus of these projects is to apply various computer vision techniques and algorithms to real-world problems.
 
 ## Team Members
-1. **Yuyang Tian**
+1. **Yuyang Tian** [Linkedin](https://www.linkedin.com/in/yuyangtian/)
 2. **Arun Mekkad**
 
 ## Projects
