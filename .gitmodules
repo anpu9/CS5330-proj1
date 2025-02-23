@@ -1,9 +1,6 @@
 [submodule "proj1"]
 	path = Proj1-Yuyang
 	url = https://github.com/anpu9/CS5330-proj1.git
-[submodule "proj3"]
-	path = Proj3
-	url = https://github.com/anpu9/CS5330-proj3.git
 [submodule "Proj2"]
 	path = Proj2
 	url = https://github.com/anpu9/CS5330-proj2.git
