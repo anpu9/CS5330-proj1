@@ -1,0 +1,6 @@
+/Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang/cmake-build-debug/CMakeFiles/Filter.dir
+/Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang/cmake-build-debug/CMakeFiles/VidDisplay.dir
+/Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang/cmake-build-debug/CMakeFiles/da2-video.dir
+/Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang/cmake-build-debug/CMakeFiles/da2-example.dir
+/Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang -B /Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang/cmake-build-debug
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Could NOT find freetype (missing: freetype_DIR)
+-- Could NOT find OpenMP_CXX (missing: OpenMP_CXX_FLAGS OpenMP_CXX_LIB_NAMES) 
+-- Could NOT find OpenMP (missing: OpenMP_CXX_FOUND CXX) 
+** WARNING ** io features related to OpenMP will be disabled
+-- Found flann version 1.9.2
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Could NOT find freetype (missing: freetype_DIR)
+-- looking for PCL_COMMON
+-- looking for PCL_OCTREE
+-- looking for PCL_IO
+-- looking for PCL_KDTREE
+-- looking for PCL_GEOMETRY
+-- looking for PCL_SEARCH
+-- looking for PCL_VISUALIZATION
+-- Configuring done (7.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang/cmake-build-debug

@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Filter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Filter-Debug-7f7b3c1aa6e856a23983.json",
+					"name" : "Filter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VidDisplay::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VidDisplay-Debug-82d49502a23f5459dd16.json",
+					"name" : "VidDisplay",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "da2-example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-da2-example-Debug-8c31e32832d8360227f2.json",
+					"name" : "da2-example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "da2-video::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-da2-video-Debug-e65150e49b2906fc21df.json",
+					"name" : "da2-video",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang/cmake-build-debug",
+		"source" : "/Users/yuyangtian/Documents/NEU/CS5330/Projects/Proj1-Yuyang"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
