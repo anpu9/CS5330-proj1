@@ -5,3 +5,11 @@
 	path = Proj2
 	url = https://github.com/anpu9/CS5330-proj2.git
 	branch = main
+[submodule "Proj3/Proj3"]
+	path = Proj3/Proj3
+	url = https://github.com/anpu9/CS5330-proj3.git
+	branch = main
+[submodule "Proj3/Proj4"]
+	path = Proj3/Proj4
+	url = https://github.com/anpu9/CS5330-proj3.git
+	branch = main
