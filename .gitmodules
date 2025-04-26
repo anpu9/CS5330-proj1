@@ -13,3 +13,6 @@
 	path = Proj4
 	url = https://github.com/anpu9/CS5330-proj4.git
 	branch = main
+[submodule "CS5330-proj5"]
+	path = CS5330-proj5
+	url = https://github.com/anpu9/CS5330-proj5.git
